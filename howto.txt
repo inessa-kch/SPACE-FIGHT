@@ -1,0 +1,12 @@
+JEU SPACE FIGHT
+***CONTROL DU JEU***
+[W]=applique une poussée vers l'avant
+[S]=applique une poussée vers l'arrière
+[A]=tourne vers la gauche
+[D]=tourne vers la droite
+espace=tire un missile
+ESC=sort du jeu
+
+***POUR LANCER LE JEU***
+Ouvrir un terminal sur VSCODE et compiler avec "make".
+Ecrire "./app" dans le terminal pour lancer le jeu.
