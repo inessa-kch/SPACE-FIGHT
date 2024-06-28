@@ -19,7 +19,7 @@ This is a classic arcade-style game inspired by the famous game "Asteroids". The
 ## Getting Started
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/inessa-kk/SPACE-FIGHT.git
+    git clone https://github.com/inessa-kch/SPACE-FIGHT.git
     ```
 2. **Navigate to the project directory**:
     ```bash
